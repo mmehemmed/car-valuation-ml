@@ -49,3 +49,183 @@ price,category,year,make,mileage,model,fuel_type,transmission,engine_volume
 12000,Sedan,2000,mercedes,400,e-220,Dizel,Mexaniki (MT),2200
 39000,Minivan,2012,mercedes,240000,viano,Dizel,Avtomat (AT),2100
 22500,Sedan,2008,mercedes,260000,e-200,Benzin,Avtomat (AT),1800
+263330,Sedan,2025,mercedes,24999,s-500-4matic,Benzin,Avtomat (AT),3000
+147300,"Offroader / SUV, 5 qapı",2025,mercedes,36848,gls-450-4matic,Benzin,Avtomat (AT),3000
+159526,"Offroader / SUV, 5 qapı",2025,mercedes,0,glc-300-e-4matic,Plug-in Hibrid,Avtomat (AT),2000
+169999,"Offroader / SUV, 5 qapı",2022,mercedes,1000,gle-350-e-4matic,Plug-in Hibrid,Avtomat (AT),2000
+77690,"Offroader / SUV, 5 qapı",2011,mercedes,190000,g-55-amg,Benzin,Avtomat (AT),5500
+22000,Furqon,2007,mercedes,305000,sprinter-313,Dizel,Mexaniki (MT),2200
+130900,Sedan,2024,mercedes,34000,e-300-e,Plug-in Hibrid,Avtomat (AT),2000
+9700,"Offroader / SUV, 5 qapı",2001,mercedes,416800,ml-320,Benzin,Avtomat (AT),3200
+156230,SUV Kupe,2023,mercedes,39000,gle-400-e-4matic-coupe,Plug-in Hibrid,Avtomat (AT),2000
+14900,Sedan,2001,mercedes,345000,e-240,Benzin,Avtomat (AT),2600
+17000,Sedan,2007,mercedes,352548,e-320,Dizel,Avtomat (AT),3000
+61000,Minivan,2018,mercedes,200946,vito-119-cdi,Dizel,Avtomat (AT),2100
+8500,Sedan,1997,mercedes,377778,c-180,Benzin,Avtomat (AT),1800
+8900,Sedan,1997,mercedes,390000,c-200,Benzin,Avtomat (AT),2000
+6500,Sedan,2001,mercedes,349000,s-430,Benzin,Avtomat (AT),4300
+83300,"Offroader / SUV, 5 qapı",2010,mercedes,131000,g-55-amg,Benzin,Avtomat (AT),5500
+10500,"Universal, 5 qapı",1999,mercedes,365286,c-180,Benzin,Mexaniki (MT),1800
+19700,Sedan,2011,mercedes,275000,e-250,Benzin,Avtomat (AT),1800
+663000,"Offroader / SUV, 5 qapı",2022,mercedes,1850,g-63-amg,Benzin,Avtomat (AT),4000
+456790,Sedan,2023,mercedes,12850,s-63-amg,Hibrid,Avtomat (AT),4000
+227911,"Offroader / SUV, 5 qapı",2025,mercedes,0,gls-450-4matic,Benzin,Avtomat (AT),3000
+168164,SUV Kupe,2024,mercedes,0,glc-350-e-4matic-coupe,Plug-in Hibrid,Avtomat (AT),2000
+225225,"Offroader / SUV, 5 qapı",2025,mercedes,0,gls-450-4matic,Benzin,Avtomat (AT),3000
+183991,"Offroader / SUV, 5 qapı",2024,mercedes,0,gle-450-4matic,Benzin,Avtomat (AT),3000
+413485,Liftbek,2024,mercedes,0,amg-gt-63-s-e-performance,Plug-in Hibrid,Avtomat (AT),4000
+20400,Furqon,2009,mercedes,377000,vito,Dizel,Avtomat (AT),2100
+185969,"Offroader / SUV, 5 qapı",2025,mercedes,0,gle-400-e-4matic,Plug-in Hibrid,Avtomat (AT),2000
+228149,"Offroader / SUV, 5 qapı",2025,mercedes,0,gls-450-4matic,Benzin,Avtomat (AT),3000
+11500,Sedan,2005,mercedes,350111,c-230,Benzin,Avtomat (AT),2500
+224004,"Offroader / SUV, 5 qapı",2024,mercedes,6000,eqs-580-4matic-suv,Elektro,Avtomat (Reduktor),
+182752,Liftbek,2024,mercedes,0,eqs-450-4matic,Elektro,Avtomat (Reduktor),
+162228,Sedan,2025,mercedes,0,e-350-e,Plug-in Hibrid,Avtomat (AT),2000
+167174,"Offroader / SUV, 5 qapı",2025,mercedes,0,gle-400-e-4matic,Plug-in Hibrid,Avtomat (AT),2000
+163218,Sedan,2025,mercedes,0,e-300-e,Plug-in Hibrid,Avtomat (AT),2000
+165196,Sedan,2025,mercedes,0,e-350-e,Plug-in Hibrid,Avtomat (AT),2000
+33000,Mikroavtobus,2007,mercedes,529603,sprinter-315,Dizel,Mexaniki (MT),2200
+151777,Sedan,2021,mercedes,91800,s-350-d,Dizel,Avtomat (AT),2900
+23900,Sedan,2010,mercedes,235000,s-500,Benzin,Avtomat (AT),5500
+59000,"Offroader / SUV, 5 qapı",2018,mercedes,135571,gle-450-4matic,Benzin,Avtomat (AT),3000
+128596,Liftbek,2025,mercedes,0,eqe-350,Elektro,Avtomat (Reduktor),
+31800,Sedan,2017,mercedes,185000,c-300,Benzin,Avtomat (AT),2000
+25750,Sedan,2010,mercedes,251520,e-300,Dizel,Avtomat (AT),3000
+37000,Yük maşını,2007,mercedes,585000,atego-1222,Dizel,Mexaniki (MT),4800
+32800,Sedan,2016,mercedes,160000,c-300-4matic,Benzin,Avtomat (AT),2000
+23500,Soyuduculu furqon,2008,mercedes,590000,vito,Dizel,Mexaniki (MT),2100
+17800,Sedan,2001,mercedes,435000,e-280,Benzin,Avtomat (AT),2800
+55250,Sedan,2019,mercedes,94000,e-220-d,Dizel,Avtomat (AT),2000
+11000,Sedan,2002,mercedes,290000,s-500,Benzin,Avtomat (AT),5000
+14950,Sedan,2000,mercedes,353500,e-220,Dizel,Avtomat (AT),2200
+433269,Rodster,2024,mercedes,0,amg-sl-63-s-e-performance,Plug-in Hibrid,Avtomat (AT),4000
+6500,"Hetçbek, 5 qapı",2005,mercedes,202000,a-160,Benzin,Avtomat (AT),1600
+28800,Sedan,2012,mercedes,174000,s-500,Benzin,Avtomat (AT),4700
+12500,Sedan,1998,mercedes,497000,c-240,Benzin,Avtomat (AT),2400
+170498,SUV Kupe,2026,mercedes,0,glc-200-4matic-coupe,Benzin,Avtomat (AT),2000
+10999,Sedan,2000,mercedes,354000,c-240,Benzin,Avtomat (AT),2600
+12500,Sedan,2000,mercedes,600000,c-220,Dizel,Avtomat (AT),2200
+25600,Furqon,2009,mercedes,264000,sprinter-313,Dizel,Mexaniki (MT),2200
+138290,Sedan,2025,mercedes,0,e-350-e,Plug-in Hibrid,Avtomat (AT),2000
+227142,"Offroader / SUV, 5 qapı",2025,mercedes,0,gls-450-4matic,Benzin,Avtomat (AT),3000
+2200,Sedan,1995,mercedes,150000,200-e,Benzin,Avtomat (AT),2000
+2800,Sedan,1991,mercedes,300000,200-d,Dizel,Mexaniki (MT),2300
+41000,Sedan,2018,mercedes,131000,cla-45-amg-4matic,Benzin,Avtomat (Robot),2000
+77690,"Offroader / SUV, 5 qapı",2011,mercedes,190000,g-55-amg,Benzin,Avtomat (AT),5500
+12500,Minivan,2001,mercedes,300000,vito-110-cdi,Dizel,Mexaniki (MT),2100
+284750,"Offroader / SUV, 5 qapı",2018,mercedes,75000,g-63-amg,Benzin,Avtomat (AT),4000
+575000,"Offroader / SUV, 5 qapı",2025,mercedes,15000,g-63-amg,Benzin,Avtomat (AT),4000
+153943,Minivan,2022,mercedes,0,v-250,Dizel,Avtomat (AT),2000
+235555,Sedan,2022,mercedes,39000,s-500-4matic,Benzin,Avtomat (AT),3000
+9400,Sedan,1998,mercedes,274555,c-240,Benzin,Avtomat (AT),2400
+11800,Sedan,1998,mercedes,211000,e-280,Benzin,Avtomat (AT),2800
+5500,Sedan,1995,mercedes,234123,c-220,Dizel,Avtomat (AT),2200
+391000,Kupe,2024,mercedes,16500,amg-gt-63-4matic,Benzin,Avtomat (AT),4000
+151300,Liftbek,2021,mercedes,18000,amg-gt-43-4matic,Benzin,Avtomat (Robot),3000
+575000,"Offroader / SUV, 5 qapı",2025,mercedes,15000,g-63-amg,Benzin,Avtomat (AT),4000
+233451,Sedan,2025,mercedes,7206,e-53-amg-4matic,Plug-in Hibrid,Avtomat (AT),3000
+510777,"Offroader / SUV, 5 qapı",2024,mercedes,7200,g-63-amg,Benzin,Avtomat (AT),4000
+72000,Sedan,2020,mercedes,61000,e-200,Benzin,Avtomat (AT),2000
+23000,Sedan,2008,mercedes,345678,e-220,Dizel,Avtomat (AT),2200
+134300,"Offroader / SUV, 5 qapı",2022,mercedes,43000,gle-53-amg-4matic,Benzin,Avtomat (AT),3000
+60350,Sedan,2021,mercedes,84800,e-200-4matic,Benzin,Avtomat (AT),2000
+7300,Sedan,1994,mercedes,531085,s-280,Benzin,Avtomat (AT),2800
+22500,Minivan,2008,mercedes,276000,vito-115-cdi,Dizel,Mexaniki (MT),2100
+39900,Sedan,2016,mercedes,295000,e-220-d,Dizel,Avtomat (AT),2000
+3800,Sedan,1992,mercedes,151510,190,Benzin,Mexaniki (MT),2000
+26500,Sedan,2013,mercedes,295000,e-220,Dizel,Avtomat (AT),2100
+8500,Sedan,2000,mercedes,222240,c-240,Benzin,Avtomat (AT),2600
+22000,Sedan,1998,mercedes,360000,s-320,Benzin,Avtomat (AT),3200
+15500,"Hetçbek, 5 qapı",2012,mercedes,140000,b-200,Benzin,Avtomat (Robot),1600
+382500,"Offroader / SUV, 5 qapı",2025,mercedes,0,g-450-d,Dizel,Avtomat (AT),3000
+55900,"Offroader / SUV, 5 qapı",2017,mercedes,238000,gls-500-4matic,Benzin,Avtomat (AT),4700
+90100,Sedan,2017,mercedes,170000,s-450,Benzin,Avtomat (AT),3000
+12300,Sedan,2002,mercedes,270000,c-200,Benzin,Avtomat (AT),1800
+50000,Kabriolet,2017,mercedes,50000,c-43-amg-4matic,Benzin,Avtomat (AT),3000
+25500,Minivan,2010,mercedes,216294,r-350-4matic,Benzin,Avtomat (AT),3500
+4300,Sedan,1993,mercedes,599334,e-200,Benzin,Avtomat (AT),2000
+9300,Sedan,1997,mercedes,404000,c-200,Benzin,Avtomat (AT),2000
+19800,Sedan,2012,mercedes,370000,e-220,Dizel,Avtomat (AT),2100
+10800,Sedan,2003,mercedes,248693,c-230,Benzin,Avtomat (AT),1800
+11600,Sedan,1997,mercedes,573000,c-240,Benzin,Avtomat (AT),2400
+52000,Mikroavtobus,2013,mercedes,250000,sprinter-316,Dizel,Mexaniki (MT),2700
+10500,"Universal, 5 qapı",1999,mercedes,358000,c-220,Dizel,Avtomat (AT),2200
+10500,Sedan,2000,mercedes,276500,c-200,Benzin,Avtomat (AT),2000
+9700,Sedan,1995,mercedes,364771,e-220,Benzin,Avtomat (AT),2200
+93500,Sedan,2018,mercedes,165000,s-350-d,Dizel,Avtomat (AT),3000
+2900,Sedan,1990,mercedes,300014,190,Benzin,Avtomat (AT),2300
+6300,"Hetçbek, 5 qapı",2002,mercedes,279558,a-160,Benzin,Avtomat (AT),1600
+13000,Sedan,2000,mercedes,270000,c-220,Dizel,Avtomat (AT),2200
+26400,Furqon,2008,mercedes,181900,sprinter-315,Dizel,Avtomat (AT),2200
+68000,Sedan,2015,mercedes,202000,s-350-d-4matic,Dizel,Avtomat (AT),3000
+26900,"Offroader / SUV, 5 qapı",2014,mercedes,73000,gla-250-4matic,Benzin,Avtomat (Robot),2000
+23900,Sedan,2010,mercedes,235000,s-500,Benzin,Avtomat (AT),5500
+162764,Sedan,2025,mercedes,0,e-300-e,Plug-in Hibrid,Avtomat (AT),2000
+31500,Sedan,2015,mercedes,155000,c-300-4matic,Benzin,Avtomat (AT),2000
+20000,Sedan,2008,mercedes,252000,e-200,Benzin,Avtomat (AT),1800
+105000,Sedan,2022,mercedes,30158,c-43-amg-4matic,Benzin,Avtomat (AT),2000
+188700,Liftbek,2021,mercedes,33000,amg-gt-53-4matic,Benzin,Avtomat (Robot),3000
+20000,"Offroader / SUV, 5 qapı",2008,mercedes,277000,ml-350-4matic,Benzin,Avtomat (AT),3500
+37000,Sedan,2017,mercedes,357000,e-220-d,Dizel,Avtomat (AT),2000
+24900,Furqon,2013,mercedes,340000,sprinter-313,Dizel,Avtomat (AT),2200
+21200,"Offroader / SUV, 5 qapı",2008,mercedes,352744,gl-500-4matic,Benzin,Avtomat (AT),5500
+40000,"Offroader / SUV, 5 qapı",2013,mercedes,270000,gl-500-4matic,Benzin,Avtomat (AT),4700
+31800,Sedan,2013,mercedes,180021,cla-45-amg-4matic,Benzin,Avtomat (Robot),2000
+11200,Sedan,2000,mercedes,294528,c-200,Benzin,Avtomat (AT),2000
+25400,Sedan,2014,mercedes,315000,e-220,Dizel,Avtomat (AT),2100
+29500,Sedan,2011,mercedes,220120,s-350,Benzin,Avtomat (AT),3500
+5700,Sedan,1992,mercedes,343644,190,Benzin,Avtomat (AT),2000
+108460,"Offroader / SUV, 5 qapı",2012,mercedes,97000,g-65-amg,Benzin,Avtomat (AT),6000
+336260,"Offroader / SUV, 5 qapı",2020,mercedes,50000,g-63-amg,Benzin,Avtomat (AT),4000
+45000,Sedan,2016,mercedes,238000,e-220-d,Dizel,Avtomat (AT),2000
+149260,"Offroader / SUV, 5 qapı",2021,mercedes,90000,gls-450-4matic,Benzin,Avtomat (AT),3000
+8300,Sedan,1999,mercedes,240545,c-240,Benzin,Avtomat (AT),2400
+64700,Sedan,2022,mercedes,100000,e-350,Benzin,Avtomat (AT),2000
+11600,"Offroader / SUV, 5 qapı",2006,mercedes,249000,ml-350-4matic,Benzin,Avtomat (AT),3500
+38500,Sedan,2020,mercedes,89000,a-250-e,Plug-in Hibrid,Avtomat (Robot),1300
+14000,Mikroavtobus,1993,mercedes,150000,410-d,Dizel,Mexaniki (MT),2900
+59000,Sedan,2021,mercedes,39000,c-180,Benzin,Avtomat (AT),1500
+98430,Sedan,2023,mercedes,39500,c-43-amg-4matic,Benzin,Avtomat (AT),2000
+40700,Sedan,2016,mercedes,153000,e-350,Benzin,Avtomat (AT),2000
+4500,Sedan,1992,mercedes,280000,190,Benzin,Avtomat (AT),1800
+16300,Sedan,2005,mercedes,270000,e-220,Dizel,Avtomat (AT),2200
+43900,Sedan,2018,mercedes,179300,e-220-d,Dizel,Avtomat (AT),2000
+33400,Furqon,2007,mercedes,174000,sprinter-315,Dizel,Mexaniki (MT),2200
+38400,Furqon,2008,mercedes,287000,sprinter-515,Dizel,Mexaniki (MT),2200
+16500,Sedan,2004,mercedes,220000,s-55-amg,Benzin,Avtomat (AT),5400
+98645,Liftbek,2024,mercedes,0,eqe-300,Elektro,Avtomat (Reduktor),
+164737,Sedan,2025,mercedes,0,e-350-e,Plug-in Hibrid,Avtomat (AT),2000
+23900,Sedan,2010,mercedes,235000,s-500,Benzin,Avtomat (AT),5500
+157250,Liftbek,2022,mercedes,67000,amg-gt-43-4matic,Benzin,Avtomat (Robot),3000
+20000,"Offroader / SUV, 5 qapı",2008,mercedes,277000,ml-350-4matic,Benzin,Avtomat (AT),3500
+15000,Furqon,1996,mercedes,400000,sprinter-312,Dizel,Mexaniki (MT),2900
+54500,Sedan,2019,mercedes,75000,e-300,Benzin,Avtomat (AT),2000
+30800,Sedan,2014,mercedes,188500,c-180,Benzin,Avtomat (AT),1600
+20000,Sedan,2008,mercedes,252000,e-200,Benzin,Avtomat (AT),1800
+43000,Sedan,2017,mercedes,151000,e-300,Benzin,Avtomat (AT),2000
+27900,Sedan,2015,mercedes,202000,e-250,Dizel,Avtomat (AT),2100
+17300,Kupe,2010,mercedes,221000,e-250,Benzin,Avtomat (AT),1800
+33400,Furqon,2007,mercedes,174000,sprinter-315,Dizel,Mexaniki (MT),2200
+38400,Furqon,2008,mercedes,287000,sprinter-515,Dizel,Mexaniki (MT),2200
+16500,Sedan,2004,mercedes,220000,s-55-amg,Benzin,Avtomat (AT),5400
+7900,Sedan,2000,mercedes,392600,e-320,Benzin,Avtomat (AT),3200
+10500,Sedan,2000,mercedes,276500,c-200,Benzin,Avtomat (AT),2000
+146200,"Offroader / SUV, 5 qapı",2020,mercedes,65000,gls-450-4matic,Benzin,Avtomat (AT),3000
+24000,Minivan,2007,mercedes,280000,vito-111-cdi,Dizel,Mexaniki (MT),2100
+57500,Mikroavtobus,2008,mercedes,550000,vario,Dizel,Mexaniki (MT),4300
+119000,"Offroader / SUV, 5 qapı",2021,mercedes,75000,gls-450-4matic,Benzin,Avtomat (AT),3000
+10900,Sedan,2000,mercedes,555222,e-220,Dizel,Avtomat (AT),2200
+10600,Sedan,1996,mercedes,278000,c-200,Benzin,Avtomat (AT),2000
+13444,Sedan,1998,mercedes,504000,c-200,Benzin,Avtomat (AT),2000
+229657,Kupe,2026,mercedes,0,cle-53-amg-4matic,Benzin,Avtomat (AT),3000
+166808,Kabriolet,2026,mercedes,0,cle-200,Benzin,Avtomat (AT),2000
+29400,Furqon,2008,mercedes,270000,sprinter-315,Dizel,Mexaniki (MT),2200
+52700,Sedan,2019,mercedes,144000,e-220-d,Dizel,Avtomat (AT),2000
+578000,"Offroader / SUV, 5 qapı",2025,mercedes,1800,g-63-amg,Benzin,Avtomat (AT),4000
+28500,Sedan,2013,mercedes,162677,cla-250,Benzin,Avtomat (Robot),2000
+32900,Minivan,2013,mercedes,28000,viano,Benzin,Avtomat (AT),3500
+89250,"Offroader / SUV, 5 qapı",2020,mercedes,115000,gle-350-4matic,Benzin,Avtomat (AT),2000
+15500,Sedan,2000,mercedes,352000,e-270,Dizel,Avtomat (AT),2700
+14900,Sedan,2001,mercedes,345000,e-240,Benzin,Avtomat (AT),2600
+132600,Minivan,2021,mercedes,47000,v-250,Dizel,Avtomat (AT),2100
+10300,"Hetçbek, 5 qapı",2009,mercedes,229000,b-170,Benzin,Avtomat (Variator),1700

@@ -43,14 +43,14 @@ def scrape_car_details(url,browser):
     
     return car_data
 
-def writeToCSV(car_data):
+def writeToCSV(car_data,percent):
     if car_data and "price" in car_data:
         with open("data.csv", mode="a", newline="", encoding="utf-8") as csv_file:
             writer = csv.DictWriter(csv_file, fieldnames=fieldnames)
             writer.writerow(car_data)
-        print("Saved car")
+        print("Saved car.  Completion: " + percent)
     else:
-        print("Skipped empty car")
+        print("Skipped empty car.")
 
 
 def getLinks():
@@ -61,10 +61,10 @@ def getLinks():
 with sync_playwright() as p:
     browser = p.chromium.launch(headless=True)
     page = browser.new_page()
-
-    for link in getLinks():
+    links = getLinks()
+    for i in range(len(links)):
         time.sleep(2)
-        writeToCSV(scrape_car_details(link,browser))
+        writeToCSV(scrape_car_details(links[i],browser),f"{i/len(links)*100:.2f}")
         
     browser.close()
     

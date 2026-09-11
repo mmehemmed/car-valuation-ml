@@ -4,7 +4,7 @@ with sync_playwright() as p:
     browser = p.chromium.launch(headless=True)
     page = browser.new_page()
     
-    page.goto("https://turbo.az/autos?q%5Bmake%5D%5B%5D=4")
+    page.goto("https://turbo.az/autos?page=6&q%5Bmake%5D%5B%5D=4")
     page.wait_for_selector(".products-i")
     
     # 2. Extract all listing links on this page

@@ -7,31 +7,29 @@ from sklearn.impute import SimpleImputer
 from sklearn.pipeline import Pipeline
 from sklearn.metrics import mean_absolute_error, r2_score
 
-# 1. Load Data
+
 df = pd.read_csv("data.csv")
 
-# 2. Clean Numeric Types
+
 numeric_cols = ["price", "year", "mileage", "engine_volume"]
+
 for col in numeric_cols:
     df[col] = pd.to_numeric(df[col], errors="coerce")
 
 # Drop rows missing the target variable
 df = df.dropna(subset=["price"])
 
-# 3. Separate Features and Target
+
 X = df[["category", "year", "make", "mileage", "model", "fuel_type", "transmission", "engine_volume"]]
 y = df["price"]
 
-# Define Feature Groups
+
 categorical_features = ["category", "make", "model", "fuel_type", "transmission"]
 numeric_features = ["year", "mileage", "engine_volume"]
 
-# 4. Preprocessing Pipelines
-# Impute missing numeric values (e.g., mean engine volume)
 numeric_transformer = SimpleImputer(strategy="median")
-
-# One-Hot Encode categorical strings; handle unknown categories during prediction
 categorical_transformer = OneHotEncoder(handle_unknown="ignore", sparse_output=False)
+
 
 preprocessor = ColumnTransformer(
     transformers=[
@@ -40,7 +38,7 @@ preprocessor = ColumnTransformer(
     ]
 )
 
-# 5. Build Complete Model Pipeline
+
 model_pipeline = Pipeline(
     steps=[
         ("preprocessor", preprocessor),
@@ -48,12 +46,11 @@ model_pipeline = Pipeline(
     ]
 )
 
-# 6. Train / Test Split
+# Train / Test Split
 X_train, X_test, y_train, y_test = train_test_split(
-    X, y, test_size=0.2, random_state=42
+    X, y, test_size=0.2, random_state=42 # 80% of data used for training, 20% used for testing
 )
 
-# 7. Fit & Evaluate
 model_pipeline.fit(X_train, y_train)
 predictions = model_pipeline.predict(X_test)
 
